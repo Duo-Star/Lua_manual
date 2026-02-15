@@ -22,9 +22,7 @@
 
 ---
 
-<img src="img/Screenshot_20260215_231906.jpg" width="150" height="300" />
-<img src="img/Screenshot_20260215_232318.jpg" width="150" height="300" />
-<img src="img/Screenshot_20260215_232203.jpg" width="150" height="300" />
+<img src="img/Screenshot_20260215_231906.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_232318.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_232203.jpg" width="150" height="300" />
 
 ## 项目列表
 
