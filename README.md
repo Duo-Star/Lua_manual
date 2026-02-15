@@ -8,6 +8,20 @@
 
 我青春里的一部分
 
+## 项目截图
+
+### 第一组
+
+<img src="img/Screenshot_20260215_231807.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_231813.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_231827.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_231848.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_231855.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_231906.jpg" width="150" height="300" />
+
+### 第二组
+
+<img src="img/Screenshot_20260215_231915.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_231927.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_232128.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_232134.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_232146.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_232203.jpg" width="150" height="300" />
+
+### 第三组
+
+<img src="img/Screenshot_20260215_232210.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_232237.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_232245.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_232255.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_232304.jpg" width="150" height="300" /> <img src="img/Screenshot_20260215_232318.jpg" width="150" height="300" />
+
 ## 项目列表
 
 - [3D 三体](src/3D%20三体.lua)
@@ -21,23 +35,23 @@
 - [Duo星系](src/Duo星系.lua)
 - [Google水平动态加载条](src/Google水平动态加载条.lua)
 - [Lua对接GeoGebra](src/Lua对接GeoGebra.lua)
-- [MathForest(Nature Math)](src/MathForest(Nature%20Math).lua)
+- [MathForest(Nature Math)](<src/MathForest(Nature%20Math).lua>)
 - [Mathjax](src/Mathjax.lua)
 - [Pi](src/Pi.lua)
-- [popCat  View](src/popCat%20%20View.lua)
+- [popCat View](src/popCat%20%20View.lua)
 - [ProgressBar](src/ProgressBar.lua)
 - [River Music Explore](src/River%20Music%20Explore.lua)
 - [SwingView](src/SwingView.lua)
 - [Three-Planet System](src/Three-Planet%20System.lua)
 - [Tong~](src/Tong~.lua)
 - [Translate 翻译](src/Translate%20翻译.lua)
-- [_0](src/_0.lua)
+- [\_0](src/_0.lua)
 - [☺︎lua num](src/☺︎lua%20num.lua)
 - [关于丝滑这件事](src/关于丝滑这件事.lua)
 - [函数定积分数值运算](src/函数定积分数值运算.lua)
 - [函数零值点运算](src/函数零值点运算.lua)
 - [单摆](src/单摆.lua)
-- [吞噬黑洞(小游戏)](src/吞噬黑洞(小游戏).lua)
+- [吞噬黑洞(小游戏)](<src/吞噬黑洞(小游戏).lua>)
 - [嗡~](src/嗡~.lua)
 - [嗯，波](src/嗯，波.lua)
 - [地图限制](src/地图限制.lua)
